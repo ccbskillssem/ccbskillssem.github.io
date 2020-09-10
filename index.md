@@ -22,7 +22,7 @@ Presenter: Matt Jones, Bioinformatics UCSF
 ~~~
 <br>
 ~~~
-Materials: [Tutorial](/pages/tensorflow)
+Materials: [Tutorial](/pages/tensorflow), [Video](https://www.youtube.com/watch?v=Sw7yAEpLCXc)
 
 \title{Topic:  Leveraging Julia for Data Science}
 Details: Thursday, Oct 1, 11am - 12pm
