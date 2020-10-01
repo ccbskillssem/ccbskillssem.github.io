@@ -24,12 +24,16 @@ Presenter: Matt Jones, Bioinformatics UCSF
 ~~~
 Materials: [Tutorial](/pages/tensorflow), [Video](https://www.youtube.com/watch?v=Sw7yAEpLCXc)
 
-\title{Topic:  Leveraging Julia for Data Science}
+\title{Topic:  Leveraging Julia for data science}
 Details: Thursday, Oct 1, 11am - 12pm
 ~~~
 <br>
 ~~~
 Presenter: Tamas Nagy, Bioinformatics UCSF
+~~~
+<br>
+~~~
+Materials: [Video](https://www.youtube.com/watch?v=bI9jN40JMQU)
 
 \title{Topic:  Building reproducible software packages with Python, pip, and conda}
 Details: Thursday, Nov 5, 11am - 12pm
@@ -38,7 +42,7 @@ Details: Thursday, Nov 5, 11am - 12pm
 ~~~
 Presenter: Alyssa Morrow, Computer Science, UCB
 
-\title{Topic:  Single-cell data analysis with Scanpy and scVI}
+\title{Topic:  Single-cell data analysis with Scanpy and scvi-tools}
 Details: Thursday, Dec 3, 11am - 12pm
 ~~~
 <br>
