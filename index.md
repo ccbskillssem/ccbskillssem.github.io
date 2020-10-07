@@ -33,7 +33,7 @@ Presenter: Tamas Nagy, Bioinformatics UCSF
 ~~~
 <br>
 ~~~
-Materials: [Video](https://www.youtube.com/watch?v=bI9jN40JMQU)
+Materials: [Video](https://www.youtube.com/watch?v=bI9jN40JMQU), [Slides](https://drive.google.com/file/d/1UIO38Hay8jR7Y4ZzsRsRVsplRewy_xhL/view?usp=sharing)
 
 \title{Topic:  Building reproducible software packages with Python, pip, and conda}
 Details: Thursday, Nov 5, 11am - 12pm
