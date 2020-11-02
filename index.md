@@ -41,6 +41,11 @@ Details: Thursday, Nov 5, 11am - 12pm
 <br>
 ~~~
 Presenter: Alyssa Morrow, Computer Science, UCB
+~~~
+<br>
+~~~
+Materials: [Tutorial](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/tutorial.html), [Poll](PollEv.com/alyssamorrow922), [Prerequisites](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/prerequisites.html)
+
 
 \title{Topic:  Single-cell data analysis with Scanpy and scvi-tools}
 Details: Thursday, Dec 3, 11am - 12pm
