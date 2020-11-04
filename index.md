@@ -44,7 +44,7 @@ Presenter: Alyssa Morrow, Computer Science, UCB
 ~~~
 <br>
 ~~~
-Materials: [Tutorial](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/tutorial.html), [Poll](PollEv.com/alyssamorrow922), [Prerequisites](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/prerequisites.html)
+Materials: [Prerequisites](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/prerequisites.html), [Tutorial](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/tutorial.html), [Poll](https://PollEv.com/alyssamorrow922) 
 
 
 \title{Topic:  Single-cell data analysis with Scanpy and scvi-tools}
