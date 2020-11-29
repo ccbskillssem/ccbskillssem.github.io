@@ -48,3 +48,4 @@ Details: Thursday, Dec 3, 11am - 12pm
 <br>
 ~~~
 Presenter: Adam Gayoso, Computational Biology, UCB
+Materials: [Tutorial](/pages/scanpy_scvi_tools)
