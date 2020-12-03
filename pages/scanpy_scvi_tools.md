@@ -16,7 +16,7 @@ There will be a focus not only on how to run the software, but also the motivati
 
 ## Notebook
 
-The colab notebook can be found [here](https://colab.research.google.com/drive/1V4BD3SAGDwLzvMUn90FMOHYVNG_iP4Ee?usp=sharing). The full notebook can also be viewed in a web browser [here](/_assets/scvi_notebook.html).
+The colab notebook can be found [here](https://colab.research.google.com/drive/1V4BD3SAGDwLzvMUn90FMOHYVNG_iP4Ee?usp=sharing). The full notebook can also be viewed in a web browser [here](/assets/scvi_notebook.html).
 
 ## Relevant references
 
