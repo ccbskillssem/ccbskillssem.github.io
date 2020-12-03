@@ -14,9 +14,13 @@ This tutorial will cover the following items:
 
 There will be a focus not only on how to run the software, but also the motivation behind each of these steps.
 
+## Notebook
+
+The colab notebook can be found [here](https://colab.research.google.com/drive/1V4BD3SAGDwLzvMUn90FMOHYVNG_iP4Ee?usp=sharing). The full notebook can also be viewed in a web browser [here](/_assets/scvi_notebook.html).
 
 ## Relevant references
 
 - Lopez, R., Regier, J., Cole, M. B., Jordan, M. I., & Yosef, N. (2018). Deep generative modeling for single-cell transcriptomics. Nature methods, 15(12), 1053-1058.
 - Luecken, M. D., & Theis, F. J. (2019). Current best practices in single‐cell RNA‐seq analysis: a tutorial. Molecular systems biology, 15(6), e8746.
 - Wolf, F. A., Angerer, P., & Theis, F. J. (2018). SCANPY: large-scale single-cell gene expression data analysis. Genome biology, 19(1), 15.
+
