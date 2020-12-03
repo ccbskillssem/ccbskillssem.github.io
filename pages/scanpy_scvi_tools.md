@@ -20,7 +20,13 @@ The colab notebook can be found [here](https://colab.research.google.com/drive/1
 
 ## Relevant references
 
+- Andrews, T. S., & Hemberg, M. (2018). False signals induced by single-cell imputation. F1000Research, 7.
 - Lopez, R., Regier, J., Cole, M. B., Jordan, M. I., & Yosef, N. (2018). Deep generative modeling for single-cell transcriptomics. Nature methods, 15(12), 1053-1058.
 - Luecken, M. D., & Theis, F. J. (2019). Current best practices in single‐cell RNA‐seq analysis: a tutorial. Molecular systems biology, 15(6), e8746.
 - Wolf, F. A., Angerer, P., & Theis, F. J. (2018). SCANPY: large-scale single-cell gene expression data analysis. Genome biology, 19(1), 15.
 
+## Other resources
+
+- [Scanpy in R](https://theislab.github.io/scanpy-in-R/)
+- [scvi-tools in R](https://www.scvi-tools.org/en/stable/user_guide/notebooks/scvi_in_R.html)
+- Conversion of data objects with [Zellkonverter](https://bioconductor.org/packages/release/bioc/html/zellkonverter.html)
