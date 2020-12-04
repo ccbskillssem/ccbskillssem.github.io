@@ -56,4 +56,4 @@ Presenter: Adam Gayoso, Computational Biology, UCB
 ~~~
 <br>
 ~~~
-Materials: [Tutorial](/pages/scanpy_scvi_tools)
+Materials: [Tutorial](/pages/scanpy_scvi_tools), [Video](https://youtu.be/EKTg9NV5hEA)
