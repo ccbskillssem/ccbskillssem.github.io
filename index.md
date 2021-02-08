@@ -87,7 +87,7 @@ Presenter: Alyssa Morrow, Computer Science, UCB
 ~~~
 <br>
 ~~~
-Materials: [Prerequisites](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/prerequisites.html), [Tutorial](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/tutorial.html), [Poll](https://PollEv.com/alyssamorrow922), [Video](https://www.youtube.com/watch?v=dNS2xsqBwyw) 
+Materials: [Prerequisites](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/prerequisites.html), [Tutorial](https://compbio-seminar-2020.readthedocs.io/en/latest/tutorial/tutorial.html), [Poll](https://PollEv.com/alyssamorrow922), [Video](https://www.youtube.com/watch?v=dNS2xsqBwyw)
 
 
 \title{Topic:  Single-cell data analysis with Scanpy and scvi-tools}
@@ -96,3 +96,7 @@ Details: Thursday, Dec 3, 11am - 12pm
 <br>
 ~~~
 Presenter: Adam Gayoso, Computational Biology, UCB
+~~~
+<br>
+~~~
+Materials: [Tutorial](/pages/scanpy_scvi_tools), [Video](https://youtu.be/EKTg9NV5hEA)
