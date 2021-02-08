@@ -11,6 +11,49 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Spring 2021
+\title{Topic:  High Performance Computing with AWS}
+Details: Thursday, Feb 11, 11am - 12pm
+~~~
+<br>
+~~~
+Presenter: Giulia Guidi, EECS, UCB
+~~~
+<br>
+~~~
+Materials: [Tutorial](https://github.com/giuliaguidi/AWS-Tutorial-CompBio-Seminar)
+
+\title{Topic:  Building your first Variational Autoencoder with PyTorch}
+Details: Thursday, March 11, 11am - 12pm
+~~~
+<br>
+~~~
+Presenter: Galen Xing, Research Assistant, UCB
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic:  Getting started with Github}
+Details: Thursday, April 8, 11am - 12pm
+~~~
+<br>
+~~~
+Presenter: Sebastian Prillo, EECS, UCB
+~~~
+<br>
+~~~
+Materials:
+
+
+\title{Topic:  Deep learning for protein structure prediction with SidechainNet}
+Details: Thursday, May 13, 11am - 12pm
+~~~
+<br>
+~~~
+Presenter: Jonathan King, Computational Biology, CMU-Pitt
+
+
 ## Fall 2020
 
 \title{Topic:  Getting Started with Tensorflow}
