@@ -21,7 +21,7 @@ Presenter: Giulia Guidi, EECS, UCB
 ~~~
 <br>
 ~~~
-Materials: [Tutorial](https://github.com/giuliaguidi/AWS-Tutorial-CompBio-Seminar)
+Materials: [Tutorial](https://github.com/giuliaguidi/AWS-Tutorial-CompBio-Seminar), [Video](https://youtu.be/oooFvbtelYo)
 
 \title{Topic:  Building your first Variational Autoencoder with PyTorch}
 Details: Thursday, March 11, 11am - 12pm
