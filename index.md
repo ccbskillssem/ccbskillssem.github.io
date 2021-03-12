@@ -32,7 +32,7 @@ Presenter: Galen Xing, Research Assistant, UCB
 ~~~
 <br>
 ~~~
-Materials: [Colab notebook](https://colab.research.google.com/drive/18ltGv1hcDOAXz29hANLUizbuV438qDFs?usp=sharing#scrollTo=DC86nczwwCOp)
+Materials: [Tutorial](https://colab.research.google.com/drive/18ltGv1hcDOAXz29hANLUizbuV438qDFs?usp=sharing#scrollTo=DC86nczwwCOp), [Video](https://youtu.be/IQpP_cH8rrA)
 
 \title{Topic:  Getting started with Github}
 Details: Thursday, April 8, 11am - 12pm
