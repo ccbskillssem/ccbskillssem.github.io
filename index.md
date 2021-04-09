@@ -43,7 +43,7 @@ Presenter: Sebastian Prillo, EECS, UCB
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Slides](https://docs.google.com/presentation/d/1ndAc3suq9SzeKASQUVxyJHpVbZY8IMyjNlse2wKIJY8/edit?usp=sharing)
 
 
 \title{Topic:  Deep learning for protein structure prediction with SidechainNet}
