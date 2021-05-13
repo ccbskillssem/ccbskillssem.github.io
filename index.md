@@ -40,7 +40,7 @@ Details: Thursday, April 8, 11am - 12pm
 <br>
 ~~~
 Presenter: Sebastian Prillo, EECS, UCB
-~~~
+~~
 <br>
 ~~~
 Materials: [Slides](https://docs.google.com/presentation/d/1ndAc3suq9SzeKASQUVxyJHpVbZY8IMyjNlse2wKIJY8/edit?usp=sharing)
@@ -52,6 +52,10 @@ Details: Thursday, May 13, 11am - 12pm
 <br>
 ~~~
 Presenter: Jonathan King, Computational Biology, CMU-Pitt
+~~
+<br>
+~~~
+Materials: [Slides](https://docs.google.com/presentation/d/1yEWBIKjjJ-N1lC7Krw40VlLxg94-cGCrS1R30Pgogq4/edit?usp=sharing), [Notebook](https://colab.research.google.com/drive/1J5pUnPuANM6cPXaR2eVNLI6c5wfZgr3X?usp=sharing)
 
 
 ## Fall 2020
