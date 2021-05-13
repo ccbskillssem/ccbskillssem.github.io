@@ -55,7 +55,7 @@ Presenter: Jonathan King, Computational Biology, CMU-Pitt
 ~~~
 <br>
 ~~~
-Materials: [Slides](https://docs.google.com/presentation/d/1yEWBIKjjJ-N1lC7Krw40VlLxg94-cGCrS1R30Pgogq4/edit?usp=sharing), [Notebook](https://colab.research.google.com/drive/1J5pUnPuANM6cPXaR2eVNLI6c5wfZgr3X?usp=sharing)
+Materials: [Slides](https://docs.google.com/presentation/d/1yEWBIKjjJ-N1lC7Krw40VlLxg94-cGCrS1R30Pgogq4/edit?usp=sharing), [Notebook](https://colab.research.google.com/drive/1J5pUnPuANM6cPXaR2eVNLI6c5wfZgr3X?usp=sharing), [Video](https://www.youtube.com/watch?v=1gZAYO7hl80)
 
 
 ## Fall 2020
