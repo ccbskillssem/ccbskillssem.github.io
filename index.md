@@ -11,6 +11,51 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Fall 2021
+\title{Topic: Fast and efficient preprocessing of single-cell RNA-seq with kallisto | bustools}
+Details: Wednesday, Sept 15, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Joseph Min, EECS, MIT
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic: Making and hosting your personal website using Jekyll and Github pages}
+Details: Wednesday, Oct 13, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Graham Northrup, Computational Biology, UCB
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic: Single-cell and spatial transcriptomics data analysis with Seurat in R}
+Details: Wednesday, Nov 10, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Yutong Wang, Biostatistics, UCB
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic: Intro to Pyro: a probabilistic programming language for Python}
+Details: Wednesday, Dec 15, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Justin Hong
+~~~
+<br>
+~~~
+Materials:
+
 ## Spring 2021
 \title{Topic:  High Performance Computing with AWS}
 Details: Thursday, Feb 11, 11am - 12pm
