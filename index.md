@@ -21,7 +21,7 @@ Presenter: Joseph Min, EECS, MIT
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Slides/Tutorials](https://docs.google.com/presentation/d/1QUmi1Mm5dJ1UyQIT_5XAG9806XL4qGfb3OUDrlIvIqs/edit#slide=id.gef29e9d7dc_1_82), [Video](https://www.youtube.com/watch?v=veg7NU2Yz1E)
 
 \title{Topic: Making and hosting your personal website using Jekyll and Github pages}
 Details: Wednesday, Oct 13, 12 - 1pm
