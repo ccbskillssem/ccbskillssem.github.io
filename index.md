@@ -32,7 +32,7 @@ Presenter: Graham Northrup, Computational Biology, UCB
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/northrup_github_pages.pdf)
+Materials: [Slides](/assets/northrup_github_pages.pdf), [Repository](https://github.com/gnorthrup/CCBSkillsExample)
 
 \title{Topic: Single-cell and spatial transcriptomics data analysis with Seurat in R}
 Details: Wednesday, Nov 10, 12 - 1pm
