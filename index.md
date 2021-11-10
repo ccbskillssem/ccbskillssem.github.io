@@ -43,7 +43,7 @@ Presenter: Yutong Wang, Biostatistics, UCB
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Tutorial](https://yu-tong-wang.github.io/talk/sc_st_data_analysis_r/), [Video](https://youtu.be/O3QzXWPjc74)
 
 \title{Topic: Intro to Pyro: a probabilistic programming language for Python}
 Details: Wednesday, Dec 15, 12 - 1pm
