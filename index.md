@@ -54,7 +54,7 @@ Presenter: Justin Hong
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Tutorial](https://colab.research.google.com/drive/1uWrN2It6uz2lUZ_Jpw1XNd0MS0GejRr4?usp=sharing), [Slides](https://drive.google.com/file/d/1jOuwyvqzhkUxBtCQmHKaMVUFpT3qpPyi/view?usp=sharing), [Video](https://youtu.be/_k7d_TkpFXs)
 
 ## Spring 2021
 \title{Topic:  High Performance Computing with AWS}
