@@ -11,6 +11,51 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Spring 2022
+\title{Topic: Introduction to R's tidyverse for data science}
+Details: Wednesday, Feb 9, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Monica Arniella, CCB, UC Berkeley
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic: Introduction to computational population genetics}
+Details: Wednesday, March 9, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Yun Deng, CCB, UC Berkeley
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic: Using Github Actions for collaborative development projects}
+Details: Wednesday, April 13, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Valeh Valiollah Pour Amiri, Research Engineer, UC Berkeley
+~~~
+<br>
+~~~
+Materials:
+
+\title{Topic: Introduction to scikit-image for 3D image anlaysis}
+Details: Wednesday, May 11, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Alexandre de Siqueira, BIDS Postdoctoral Fellow, UC Berkeley
+~~~
+<br>
+~~~
+Materials:
+
 ## Fall 2021
 \title{Topic: Fast and efficient preprocessing of single-cell RNA-seq with kallisto | bustools}
 Details: Wednesday, Sept 15, 12 - 1pm
