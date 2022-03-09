@@ -32,7 +32,7 @@ Presenter: Yun Deng, CCB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Notebook](https://nbviewer.org/github/ccbskillssem/ccbskillssem.github.io/blob/dev/_assets/msprime_deng.ipynb)
 
 \title{Topic: Using Github Actions for collaborative development projects}
 Details: Wednesday, April 13, 12 - 1pm
