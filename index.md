@@ -22,6 +22,7 @@ Presenter: Monica Arniella, CCB, UC Berkeley
 <br>
 ~~~
 Materials: [Slides](https://docs.google.com/presentation/d/1cMLI3NuU0jn03xp2ZAixMYVEeDnet4zVgma_zHWl_QY/edit?usp=sharing), [Tutorial](/assets/R-tidyverse-for-data-science.html), [Additional Materials](https://drive.google.com/drive/folders/1o5iF2oGlI-drKEK4Fa2z4R0S9Cg8vaeJ?usp=sharing), [Video](https://youtu.be/UuTM5Bk6CY8)
+
 \title{Topic: Introduction to computational population genetics}
 Details: Wednesday, March 9, 12 - 1pm
 ~~~
