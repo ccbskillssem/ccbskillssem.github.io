@@ -32,7 +32,7 @@ Presenter: Yun Deng, CCB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Static notebook](https://nbviewer.org/github/ccbskillssem/ccbskillssem.github.io/blob/dev/_assets/msprime_deng.ipynb), [Interactive notebook](https://colab.research.google.com/drive/152yLRYXTF6qjjHzuY8gYhWnJFDWwZgWX?usp=sharing)
+Materials: [Static notebook](https://nbviewer.org/github/ccbskillssem/ccbskillssem.github.io/blob/dev/_assets/msprime_deng.ipynb), [Interactive notebook](https://colab.research.google.com/drive/152yLRYXTF6qjjHzuY8gYhWnJFDWwZgWX?usp=sharing), [Video](https://youtu.be/L1qP058UcYs)
 
 \title{Topic: Using Github Actions for collaborative development projects}
 Details: Wednesday, April 13, 12 - 1pm
