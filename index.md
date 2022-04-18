@@ -43,7 +43,7 @@ Presenter: Valeh Valiollah Pour Amiri, Research Engineer, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides pdf](/assets/github_actions_valeh.pdf), [Slides link](https://docs.google.com/presentation/d/1rBo4bRPun1YBsKIzEF88HYkshhuQMdSH9WMpzthpG5E/edit?usp=sharing)
+Materials: [Slides pdf](/assets/github_actions_valeh.pdf), [Slides link](https://docs.google.com/presentation/d/1rBo4bRPun1YBsKIzEF88HYkshhuQMdSH9WMpzthpG5E/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=i4aiGzWcuSE)
 
 \title{Topic: Introduction to scikit-image for 3D image anlaysis}
 Details: Wednesday, May 11, 12 - 1pm
