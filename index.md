@@ -32,7 +32,7 @@ Presenter: Yun Deng, CCB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Static notebook](https://nbviewer.org/github/ccbskillssem/ccbskillssem.github.io/blob/dev/_assets/msprime_deng.ipynb), [Interactive notebook](https://colab.research.google.com/drive/152yLRYXTF6qjjHzuY8gYhWnJFDWwZgWX?usp=sharing), [Video](https://youtu.be/L1qP058UcYs), [Slides](/assets/deng_seminar_genetics.pdf)
 
 \title{Topic: Using Github Actions for collaborative development projects}
 Details: Wednesday, April 13, 12 - 1pm
@@ -43,7 +43,7 @@ Presenter: Valeh Valiollah Pour Amiri, Research Engineer, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Slides pdf](/assets/github_actions_valeh.pdf), [Slides link](https://docs.google.com/presentation/d/1rBo4bRPun1YBsKIzEF88HYkshhuQMdSH9WMpzthpG5E/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=i4aiGzWcuSE)
 
 \title{Topic: Introduction to scikit-image for 3D image analysis}
 Details: Wednesday, May 11, 12 - 1pm
@@ -54,7 +54,7 @@ Presenter: Alexandre de Siqueira, BIDS Postdoctoral Fellow, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Video](https://www.youtube.com/watch?v=xI3Fv-WykBA), [Tutorial](https://github.com/alexdesiqueira/ccb_skimage3d_tutorial)
+Materials: [Tutorial](https://github.com/alexdesiqueira/ccb_skimage3d_tutorial), [Video](https://www.youtube.com/watch?v=xI3Fv-WykBA)
 
 ## Fall 2021
 \title{Topic: Fast and efficient preprocessing of single-cell RNA-seq with kallisto | bustools}
