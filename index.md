@@ -54,7 +54,7 @@ Presenter: Alexandre de Siqueira, BIDS Postdoctoral Fellow, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Tutorial](https://github.com/alexdesiqueira/ccb_skimage3d_tutorial)
 
 ## Fall 2021
 \title{Topic: Fast and efficient preprocessing of single-cell RNA-seq with kallisto | bustools}
