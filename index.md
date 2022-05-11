@@ -45,7 +45,7 @@ Presenter: Valeh Valiollah Pour Amiri, Research Engineer, UC Berkeley
 ~~~
 Materials:
 
-\title{Topic: Introduction to scikit-image for 3D image anlaysis}
+\title{Topic: Introduction to scikit-image for 3D image analysis}
 Details: Wednesday, May 11, 12 - 1pm
 ~~~
 <br>
@@ -54,7 +54,7 @@ Presenter: Alexandre de Siqueira, BIDS Postdoctoral Fellow, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Video](https://www.youtube.com/watch?v=xI3Fv-WykBA), [Tutorial](https://github.com/alexdesiqueira/ccb_skimage3d_tutorial)
 
 ## Fall 2021
 \title{Topic: Fast and efficient preprocessing of single-cell RNA-seq with kallisto | bustools}
