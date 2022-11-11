@@ -22,7 +22,7 @@ Presenter: Elise Kerdoncuff, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/LaTeX_using_Overleaf.pdf)
+Materials: [Slides](/assets/LaTeX_using_Overleaf.pdf), [Video](https://youtu.be/uemO6oVbfN0)
 
 
 \title{Topic: Introduction to modelling single-cell dynamics}
