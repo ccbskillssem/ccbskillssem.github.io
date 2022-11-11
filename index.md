@@ -25,6 +25,20 @@ Presenter: Elise Kerdoncuff, UC Berkeley
 Materials: [Slides](/assets/LaTeX_using_Overleaf.pdf)
 
 
+\title{Topic: Introduction to modelling single-cell dynamics}
+Details: Thursday, Novermber 10, 12:30 - 1:30pm
+~~~
+<br>
+~~~
+Presenter: Michael Vineyard, Massachusetts General Hospital/Broad Institute
+~~~
+<br>
+~~~
+Materials: 
+
+
+
+
 ## Spring 2022
 \title{Topic: Introduction to R's tidyverse for data science}
 Details: Wednesday, Feb 9, 12 - 1pm
