@@ -22,7 +22,7 @@ Presenter: Elise Kerdoncuff, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Slides](/assets/LaTeX_using_Overleaf.pdf)
 
 
 ## Spring 2022
