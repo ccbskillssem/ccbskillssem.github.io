@@ -29,6 +29,7 @@ Materials: [Slides](https://docs.google.com/presentation/d/1cMLI3NuU0jn03xp2ZAix
 
 3. Update with the new presenter info.
 4. Commit the changes!
+5. See other examples for how to add slides/materials into the `_assets` directory and link to them in an entry.
 
 
 The website will then be rebuilt and changed live after a few minutes (<5 minutes, check with an incognito mode browser window to see changes in case the website is cached on your computer).
