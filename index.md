@@ -11,6 +11,20 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+
+## Fall 2022
+\title{Topic: Introduction to LaTeX using Overleaf}
+Details: Thursday, October 13, 12:30 - 1:30pm
+~~~
+<br>
+~~~
+Presenter: Elise Kerdoncuff, UC Berkeley
+~~~
+<br>
+~~~
+Materials:
+
+
 ## Spring 2022
 \title{Topic: Introduction to R's tidyverse for data science}
 Details: Wednesday, Feb 9, 12 - 1pm
