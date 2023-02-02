@@ -40,11 +40,11 @@ Materials: [Slides](/assets/LaTeX_using_Overleaf.pdf), [Video](https://youtu.be/
 
 
 \title{Topic: Introduction to modelling single-cell dynamics}
-Details: Thursday, Novermber 10, 12:30 - 1:30pm
+Details: Thursday, November 10, 12:30 - 1:30pm
 ~~~
 <br>
 ~~~
-Presenter: Michael Vineyard, Massachusetts General Hospital/Broad Institute
+Presenter: Michael Vinyard, Massachusetts General Hospital/Broad Institute
 ~~~
 <br>
 ~~~
