@@ -23,7 +23,7 @@ Presenter: Sarah Johnson, UC Berkeley
 <br>
 ~~~
 Materials: [Slides](/assets/CCB_skills_seminar_2Feb2023.pptx), [Colab Notebook](https://tinyurl.com/CCBskills)
-)
+
 
 
 ## Fall 2022
