@@ -12,6 +12,20 @@
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
 
+## Spring 2023
+\title{Topic: Leveraging R's ggplot for biological data analysis and visualization}
+Details: Thursday, February 2, 12:30 - 1:30pm
+~~~
+<br>
+~~~
+Presenter: Sarah Johnson, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides](/assets/CCB_skills_seminar_2Feb2023.pptx), [Colab Notebook](https://tinyurl.com/CCBskills)
+)
+
+
 ## Fall 2022
 \title{Topic: Introduction to LaTeX using Overleaf}
 Details: Thursday, October 13, 12:30 - 1:30pm
