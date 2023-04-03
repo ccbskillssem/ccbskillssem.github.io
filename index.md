@@ -25,6 +25,18 @@ Presenter: Sarah Johnson, UC Berkeley
 Materials: [Slides](/assets/CCB_skills_seminar_2Feb2023.pptx), [Colab Notebook](https://tinyurl.com/CCBskills)
 
 
+\title{Topic: Unix tools, scripting, and parallel computing}
+Details: Thursday, April 6, 12:30 - 1:30pm
+~~~
+<br>
+~~~
+Presenter: Lenore Pipes, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [GitHub Repo/Slides](https://github.com/lpipes/unix_workshop/)
+
+
 
 ## Fall 2022
 \title{Topic: Introduction to LaTeX using Overleaf}
