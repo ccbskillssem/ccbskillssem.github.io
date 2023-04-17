@@ -22,7 +22,7 @@ Presenter: Sarah Johnson, Moorjani Lab, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/CCB_skills_seminar_2Feb2023.pptx), [Colab Notebook](https://tinyurl.com/CCBskills)
+Materials: [Slides](/assets/CCB_skills_seminar_2Feb2023.pptx), [Colab Notebook](https://tinyurl.com/CCBskills), [Video](https://youtu.be/rKbHhjNmSa8)
 
 
 \title{Topic: Unix tools, scripting, and parallel computing}
@@ -34,7 +34,7 @@ Presenter: Lenore Pipes, Nielsen Lab, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [GitHub Repo/Slides](https://github.com/lpipes/unix_workshop/)
+Materials: [GitHub Repo/Slides](https://github.com/lpipes/unix_workshop/), [Video](https://youtu.be/UKD_XhR58L8)
 
 
 \title{Topic: Building an imputation pipeline for low coverage ancient genomes}
@@ -46,7 +46,7 @@ Presenter: Kiran Kumar, Zoellner Lab, University of Michigan
 ~~~
 <br>
 ~~~
-Materials: 
+Materials: [Video](https://youtu.be/ei98BwHk0Mk)
 
 ## Fall 2022
 \title{Topic: Introduction to LaTeX using Overleaf}
