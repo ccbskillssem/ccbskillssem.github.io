@@ -18,7 +18,7 @@ Details: Thursday, February 2, 12:30 - 1:30pm
 ~~~
 <br>
 ~~~
-Presenter: Sarah Johnson, UC Berkeley
+Presenter: Sarah Johnson, Moorjani Lab, UC Berkeley
 ~~~
 <br>
 ~~~
@@ -30,13 +30,23 @@ Details: Thursday, April 6, 12:30 - 1:30pm
 ~~~
 <br>
 ~~~
-Presenter: Lenore Pipes, UC Berkeley
+Presenter: Lenore Pipes, Nielsen Lab, UC Berkeley
 ~~~
 <br>
 ~~~
 Materials: [GitHub Repo/Slides](https://github.com/lpipes/unix_workshop/)
 
 
+\title{Topic: Building an imputation pipeline for low coverage ancient genomes}
+Details: Thursday, April 13, 12:30 - 1:30pm
+~~~
+<br>
+~~~
+Presenter: Kiran Kumar, Zoellner Lab, University of Michigan
+~~~
+<br>
+~~~
+Materials: 
 
 ## Fall 2022
 \title{Topic: Introduction to LaTeX using Overleaf}
