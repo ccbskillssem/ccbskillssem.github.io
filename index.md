@@ -48,6 +48,8 @@ Presenter: Kiran Kumar, Zoellner Lab, University of Michigan
 ~~~
 Materials: [Video](https://youtu.be/ei98BwHk0Mk)
 
+
+
 ## Fall 2022
 \title{Topic: Introduction to LaTeX using Overleaf}
 Details: Thursday, October 13, 12:30 - 1:30pm
