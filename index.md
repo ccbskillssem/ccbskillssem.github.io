@@ -46,7 +46,7 @@ Presenter: Kiran Kumar, Zoellner Lab, University of Michigan
 ~~~
 <br>
 ~~~
-Materials: [Video](https://youtu.be/ei98BwHk0Mk)
+Materials: [Slides](/assets/CompBioSeminar-3_13_23.pdf), [Video](https://youtu.be/ei98BwHk0Mk)
 
 
 
