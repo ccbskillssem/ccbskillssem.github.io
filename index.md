@@ -58,7 +58,7 @@ Presenter: Martin Kim, Yosef Lab, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials:
+Materials: [Slides](/assets/jax_ccb_seminar_final.pdf)
 
 
 
