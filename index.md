@@ -49,6 +49,18 @@ Presenter: Kiran Kumar, Zoellner Lab, University of Michigan
 Materials: [Slides](/assets/CompBioSeminar-3_13_23.pdf), [Video](https://youtu.be/ei98BwHk0Mk)
 
 
+\title{Topic: Introduction to Jax from the lens of Computational Biology}
+Details: Thursday, May 11, 12:30 - 1:30pm
+~~~
+<br>
+~~~
+Presenter: Martin Kim, Yosef Lab, UC Berkeley
+~~~
+<br>
+~~~
+Materials:
+
+
 
 ## Fall 2022
 \title{Topic: Introduction to LaTeX using Overleaf}
