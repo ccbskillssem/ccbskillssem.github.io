@@ -11,6 +11,17 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Fall 2023
+\title{Topic: An introduction to snakemake: a tool for automating and streamlining your analyses}
+Details: Thursday, October 12, 12:00 - 1:00pm
+~~~
+<br>
+~~~
+Presenter: Stacy Li, Sudmant Lab, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [GitHub Repo/Slides](https://github.com/ccbskillssem/snakemake_fa23), [Video](https://youtu.be/tUTcfoMQl98)
 
 ## Spring 2023
 \title{Topic: Leveraging R's ggplot for biological data analysis and visualization}
