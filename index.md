@@ -23,6 +23,18 @@ Presenter: Stacy Li, Sudmant Lab, UC Berkeley
 ~~~
 Materials: [GitHub Repo/Slides](https://github.com/ccbskillssem/snakemake_fa23), [Video](https://youtu.be/tUTcfoMQl98)
 
+\title{Topic: An overview of skills and pipelines for A-Z reproducible manuscripts}
+Details: Wednesday, November 8, 12:00 - 1:00pm
+~~~
+<br>
+~~~
+Presenter: Juan Manuel "Manny" Vazquez, Sudmant Lab, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Reproducible manuscript](https://github.com/docmanny/atlantogenataGeneDuplication), [Reproducible CV](https://github.com/docmanny/cv), [Video](https://youtu.be/l5Ro6LQEf0g)
+
+
 ## Spring 2023
 \title{Topic: Leveraging R's ggplot for biological data analysis and visualization}
 Details: Thursday, February 2, 12:30 - 1:30pm
