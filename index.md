@@ -12,6 +12,19 @@
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
 ## Fall 2023
+\title{Topic: Estimating and visualizing population genetic structure for landscape genomics}
+Details: Thursday, December 14, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: George Zaragoza, Fitak Lab, University of Central Floriday
+~~~
+<br>
+~~~
+Materials: [GitHub Repo/Slides](https://github.com/georgeomics/UCBerkeley-CompBio-Skills-Seminar/tree/main), [Video](https://www.youtube.com/watch?v=bGtBEEUCv9s)
+
+https://github.com/georgeomics/UCBerkeley-CompBio-Skills-Seminar/blob/main/Scripts/TESS-Demo.md
+
 \title{Topic: An introduction to snakemake: a tool for automating and streamlining your analyses}
 Details: Thursday, October 12, 12:00 - 1:00pm
 ~~~
