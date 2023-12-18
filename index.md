@@ -23,8 +23,6 @@ Presenter: George Zaragoza, Fitak Lab, University of Central Floriday
 ~~~
 Materials: [GitHub Repo/Slides](https://github.com/georgeomics/UCBerkeley-CompBio-Skills-Seminar/tree/main), [Video](https://www.youtube.com/watch?v=bGtBEEUCv9s)
 
-https://github.com/georgeomics/UCBerkeley-CompBio-Skills-Seminar/blob/main/Scripts/TESS-Demo.md
-
 \title{Topic: An introduction to snakemake: a tool for automating and streamlining your analyses}
 Details: Thursday, October 12, 12:00 - 1:00pm
 ~~~
