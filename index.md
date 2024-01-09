@@ -17,7 +17,7 @@ Details: Thursday, December 14, 12 - 1pm
 ~~~
 <br>
 ~~~
-Presenter: George Zaragoza, Fitak Lab, University of Central Floriday
+Presenter: George Zaragoza, Fitak Lab, University of Central Florida
 ~~~
 <br>
 ~~~
@@ -43,7 +43,7 @@ Presenter: Juan Manuel "Manny" Vazquez, Sudmant Lab, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Reproducible manuscript](https://github.com/docmanny/atlantogenataGeneDuplication), [Reproducible CV](https://github.com/docmanny/cv), [Video](https://youtu.be/l5Ro6LQEf0g)
+Materials: [Reproducible manuscript](https://github.com/docmanny/atlantogenataGeneDuplication), [Reproducible CV](https://github.com/docmanny/cv), [Video](https://youtu.be/l5Ro6LQEf0g), [Slides](/assets/2023-11-08_CCBSkillsSeminar.pptx)
 
 
 ## Spring 2023
