@@ -23,6 +23,16 @@ Presenter: Matthew Giammar, CCB, UC Berkeley
 ~~~
 Materials: [Slides], [Video](https://youtu.be/UuTM5Bk6CY8)
 
+\title{Topic: Leveraging Object-Oriented Programming (OOP) in Python for Bioinformatics}
+Details: Wednesday, February 14, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Carmelle Catamura, Lareau Lab, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides](/assets/Catamura_Skills_Sem.pptx), [Video](https://youtu.be/8rXCCWEEFgc)
 
 ## Fall 2023
 \title{Topic: Estimating and visualizing population genetic structure for landscape genomics}
