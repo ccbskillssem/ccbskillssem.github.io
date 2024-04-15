@@ -21,7 +21,7 @@ Presenter: Matthew Giammar, CCB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides], [Video](https://youtu.be/UuTM5Bk6CY8)
+Materials: [Slides](/assets/CCB_skills_seminar_SP24.pdf), [Video]()
 
 \title{Topic: Leveraging Object-Oriented Programming (OOP) in Python for Bioinformatics}
 Details: Wednesday, February 14, 12 - 1pm
