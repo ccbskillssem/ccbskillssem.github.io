@@ -11,6 +11,19 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Spring 2024
+\title{Topic: Writing Extensible and Maintainable Code in an Academic Setting: Tools, Tradeoffs, and Methodologies}
+Details: Wednesday, March 13, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Matthew Giammar, CCB, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides], [Video](https://youtu.be/UuTM5Bk6CY8)
+
+
 ## Fall 2023
 \title{Topic: Estimating and visualizing population genetic structure for landscape genomics}
 Details: Thursday, December 14, 12 - 1pm
