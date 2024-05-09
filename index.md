@@ -21,7 +21,7 @@ Presenter: Kailey Ferger, CCB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/SLiM_An_Evolutionary_Simulation_Framework.pptx), [Video](https://youtu.be/4eDlyzlh0rk)
+Materials: [Slides](/assets/Ferger_Skills_Sem.pdf), [Video](https://youtu.be/4eDlyzlh0rk)
 
 \title{Topic: Writing Extensible and Maintainable Code in an Academic Setting: Tools, Tradeoffs, and Methodologies}
 Details: Wednesday, March 13, 12 - 1pm
@@ -43,7 +43,7 @@ Presenter: Carmelle Catamura, Lareau Lab, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/Catamura_Skills_Sem.pptx), [Video](https://youtu.be/8rXCCWEEFgc)
+Materials: [Slides](/assets/Catamura_Skills_Sem.pdf), [Video](https://youtu.be/8rXCCWEEFgc)
 
 ## Fall 2023
 \title{Topic: Estimating and visualizing population genetic structure for landscape genomics}
