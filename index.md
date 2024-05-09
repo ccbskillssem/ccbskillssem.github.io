@@ -12,6 +12,18 @@
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
 ## Spring 2024
+
+\title{Topic: SciDataFlow: A Tool for Improving the Flow of Data through Science}
+Details: Wednesday, May 8, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Vince Buffalo, CCB, UC Berkeley
+~~~
+<br>
+~~~
+Materials:[Video](https://youtu.be/YJ0H9SO_o4A)
+
 \title{Topic: Using SLiM for forward genetic simulation}
 Details: Thursday, April 25, 12 - 1pm
 ~~~
