@@ -22,7 +22,7 @@ Presenter: Philip Lee, CCB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/intro_to_mcmc_for_id.pdf), [Tutorial](/assets/intro_to_mcmc_for_id_code_examples.zip)
+Materials: [Slides](/assets/intro_to_mcmc_for_id.pdf), [Tutorial](/assets/intro_to_mcmc_for_id_code_examples.zip), [Video](https://youtu.be/3JGS44GOGZw)
 
 
 ## Spring 2024
