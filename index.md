@@ -11,6 +11,20 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Spring 2025
+
+\title{Topic: Storytelling in Scientific Talks: crafting and refining a narrative for better communications}
+Details: Thursday, April 10, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Chandler Sutherland, PMB, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides](/assets/Sutherland_Storytelling_in_Scientific_Talks.pdf), [Talk_Scaffold](/assets/Sutherland_Talk_Scaffold_Blank.pdf)
+
+
 ## Fall 2024
 
 \title{Topic: Introduction to MCMC for Infectious Diseases}
