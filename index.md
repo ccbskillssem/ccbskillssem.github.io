@@ -22,8 +22,8 @@ Presenter: Chandler Sutherland, PMB, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/Sutherland_Storytelling_in_Scientific_Talks.pdf), [Talk_Scaffold](/assets/Sutherland_Talk_Scaffold_Blank.pdf)
-
+Materials: [Slides](/assets/Sutherland_Storytelling_in_Scientific_Talks.pdf), [Talk_Scaffold](/assets/Sutherland_Talk_Scaffold_Blank.pdf), 
+[Video](https://www.youtube.com/watch?v=S63EpqIKR0o)
 
 ## Fall 2024
 
