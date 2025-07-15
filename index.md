@@ -13,6 +13,19 @@ These seminars are taught by graduate students and focus on software tools, te
 
 ## Spring 2025
 
+\title{Topic: Own your data: power of plain text for automating reproducible research}
+Details: Thursday May 1, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Leon Han, CCB, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides](/assets/leon_slides.pdf), 
+[Video](https://www.youtube.com/watch?v=F6hvX2_3h0E)
+
+
 \title{Topic: Storytelling in Scientific Talks: crafting and refining a narrative for better communications}
 Details: Thursday, April 10, 12 - 1pm
 ~~~
