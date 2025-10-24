@@ -11,6 +11,20 @@
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
+## Fall 2025
+\title{Topic: A very short introduction to the academic job market}
+Details: Thursday October 16, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Joana Rocha, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides](/assets/leon_slides.pdf), 
+[Video](https://youtu.be/1WDUaf1xUSU)
+
+
 ## Spring 2025
 
 \title{Topic: Own your data: power of plain text for automating reproducible research}
