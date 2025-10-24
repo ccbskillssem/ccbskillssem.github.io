@@ -21,7 +21,7 @@ Presenter: Joana Rocha, UC Berkeley
 ~~~
 <br>
 ~~~
-Materials: [Slides](/assets/leon_slides.pdf), 
+Materials: [Slides](/assets/JRocha_October_TheApplication.pdf), 
 [Video](https://youtu.be/1WDUaf1xUSU)
 
 
