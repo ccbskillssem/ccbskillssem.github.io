@@ -12,6 +12,18 @@
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis.  There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
 
 ## Fall 2025
+\title{Topic: Introduction to phylogenetic analysis - how to prepare, build, and interpret a phylogenetic tree}
+Details: Wednesday, November 19, 12 - 1pm
+~~~
+<br>
+~~~
+Presenter: Ryuichi Ono, UC Berkeley
+~~~
+<br>
+~~~
+Materials: [Slides](/assets/251119_ccb_skills.pdf), 
+[Video](https://www.youtube.com/watch?v=42EcVIoowcI)
+
 \title{Topic: A very short introduction to the academic job market}
 Details: Thursday October 16, 12 - 1pm
 ~~~
